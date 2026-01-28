@@ -1,13 +1,16 @@
-Bazaro is a shopping web application developed as a group coursework project.
-The backend is implemented in Python, with SQLite used for persistent data storage.
-The project includes a separate frontend for user interaction.
+Bazaro
+
+Shopping web application built with Python (Flask) and SQLite.  
+Server-rendered UI with HTML/CSS and basic e-commerce functionality.
 
 Features
-- Product listing and browsing
-- Basic shopping cart functionality
-- Backend logic for handling data and user actions
-- Persistent storage using SQLite
+- Product listing, search, and categories
+- Cart, checkout, and order history
+- User authentication (login/register)
+- Wallet balance and payments
+- Product image upload
 
 Tech Stack
-- Python
+- Python (Flask)
 - SQLite
+- HTML/CSS 
